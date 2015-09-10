@@ -7,8 +7,6 @@ import javax.swing.border.LineBorder;
 
 /*
  * Author: Georgiy Danielyan
- * Assignment 6 For Java Course (GCC 139)
- * Completion date: June 9, 2015
  */
 
 

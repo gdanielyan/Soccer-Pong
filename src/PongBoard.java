@@ -20,8 +20,6 @@ import javax.swing.JPanel;
 
 /*
  * Author: Georgiy Danielyan
- * Assignment 6 For Java Course (GCC 139)
- * Completion date: June 9, 2015
  */
 
 public class PongBoard extends JPanel implements ActionListener, KeyListener {
